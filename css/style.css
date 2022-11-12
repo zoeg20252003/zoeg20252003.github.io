@@ -157,3 +157,7 @@ footer {
     grid-template-columns: 1fr;
   }
 }
+
+a {
+  color: #f28482; 
+}
